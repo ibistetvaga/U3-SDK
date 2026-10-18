@@ -193,3 +193,7 @@ ItemLinks.txt
 # Unity creates these files during export
 /Assets/Resources/PerformanceTestRunInfo*
 /Assets/Resources/PerformanceTestRunSettings*
+
+# Python host setup tooling
+__pycache__/
+*.py[cod]
